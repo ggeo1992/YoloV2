@@ -5,3 +5,4 @@
 **/*.weights
 .idea
 **/.idea
+.DS_Store
